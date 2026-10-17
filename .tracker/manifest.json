@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203493683,
+  "updatedAt": 1792203500915,
   "problems": [
     {
       "platform": "leetcode",
@@ -32,6 +32,22 @@
       "lang": "java",
       "solvedAt": 1791997858000,
       "submissionId": "2172352499"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "20",
+      "titleSlug": "valid-parentheses",
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "dir": "leetcode/0020-valid-parentheses",
+      "lang": "java",
+      "solvedAt": 1791999070000,
+      "submissionId": "2172373279"
     },
     {
       "platform": "leetcode",
