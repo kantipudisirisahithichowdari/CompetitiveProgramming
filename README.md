@@ -2,11 +2,12 @@
 
 Accepted solutions, committed automatically by [Coding Profile Tracker](https://github.com/Saksham-Sharma23/Coding-Profile-Tracker).
 
-**9 solved** — 6 Easy · 3 Medium
+**10 solved** — 7 Easy · 3 Medium
 
 | # | Problem | Difficulty | Language | Solved |
 | ---: | --- | --- | --- | --- |
 | 2 | [Add Two Numbers](leetcode/0002-add-two-numbers) | Medium | Java | 2026-10-07 |
+| 9 | [Palindrome Number](leetcode/0009-palindrome-number) | Easy | Java | 2026-10-14 |
 | 876 | [Middle of the Linked List](leetcode/0876-middle-of-the-linked-list) | Easy | Java | 2026-10-15 |
 | 4034 | [Minimum Bishop Moves to Reach Target](leetcode/4034-minimum-bishop-moves-to-reach-target) | Medium | Java | 2026-08-30 |
 | 4038 | [Count Integers Appearing in a Single Block](leetcode/4038-count-integers-appearing-in-a-single-block) | Easy | Java | 2026-08-30 |

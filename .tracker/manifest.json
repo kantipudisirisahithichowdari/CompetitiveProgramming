@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203486767,
+  "updatedAt": 1792203493683,
   "problems": [
     {
       "platform": "leetcode",
@@ -18,6 +18,20 @@
       "lang": "java",
       "solvedAt": 1791339794000,
       "submissionId": "2164810205"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "9",
+      "titleSlug": "palindrome-number",
+      "title": "Palindrome Number",
+      "difficulty": "Easy",
+      "tags": [
+        "Math"
+      ],
+      "dir": "leetcode/0009-palindrome-number",
+      "lang": "java",
+      "solvedAt": 1791997858000,
+      "submissionId": "2172352499"
     },
     {
       "platform": "leetcode",
