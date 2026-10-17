@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203514586,
+  "updatedAt": 1792203520638,
   "problems": [
     {
       "platform": "leetcode",
@@ -77,6 +77,20 @@
       "lang": "java",
       "solvedAt": 1791999070000,
       "submissionId": "2172373279"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "83",
+      "titleSlug": "remove-duplicates-from-sorted-list",
+      "title": "Remove Duplicates from Sorted List",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List"
+      ],
+      "dir": "leetcode/0083-remove-duplicates-from-sorted-list",
+      "lang": "java",
+      "solvedAt": 1792048280000,
+      "submissionId": "2172804383"
     },
     {
       "platform": "leetcode",
