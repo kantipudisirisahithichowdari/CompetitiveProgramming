@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "generator": "Coding Profile Tracker",
+  "updatedAt": 1792203427874,
+  "problems": [
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "876",
+      "titleSlug": "middle-of-the-linked-list",
+      "title": "Middle of the Linked List",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "dir": "leetcode/0876-middle-of-the-linked-list",
+      "lang": "java",
+      "solvedAt": 1792063620000,
+      "submissionId": "2172962438"
+    }
+  ]
+}
