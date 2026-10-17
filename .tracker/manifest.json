@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203520638,
+  "updatedAt": 1792203527394,
   "problems": [
     {
       "platform": "leetcode",
@@ -77,6 +77,21 @@
       "lang": "java",
       "solvedAt": 1791999070000,
       "submissionId": "2172373279"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "21",
+      "titleSlug": "merge-two-sorted-lists",
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "dir": "leetcode/0021-merge-two-sorted-lists",
+      "lang": "java",
+      "solvedAt": 1792062518000,
+      "submissionId": "2172951526"
     },
     {
       "platform": "leetcode",

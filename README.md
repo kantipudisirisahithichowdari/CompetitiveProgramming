@@ -2,7 +2,7 @@
 
 Accepted solutions, committed automatically by [Coding Profile Tracker](https://github.com/Saksham-Sharma23/Coding-Profile-Tracker).
 
-**14 solved** — 10 Easy · 4 Medium
+**15 solved** — 11 Easy · 4 Medium
 
 | # | Problem | Difficulty | Language | Solved |
 | ---: | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ Accepted solutions, committed automatically by [Coding Profile Tracker](https://
 | 7 | [Reverse Integer](leetcode/0007-reverse-integer) | Medium | Java | 2026-10-15 |
 | 9 | [Palindrome Number](leetcode/0009-palindrome-number) | Easy | Java | 2026-10-14 |
 | 20 | [Valid Parentheses](leetcode/0020-valid-parentheses) | Easy | Java | 2026-10-14 |
+| 21 | [Merge Two Sorted Lists](leetcode/0021-merge-two-sorted-lists) | Easy | Java | 2026-10-15 |
 | 83 | [Remove Duplicates from Sorted List](leetcode/0083-remove-duplicates-from-sorted-list) | Easy | Java | 2026-10-15 |
 | 876 | [Middle of the Linked List](leetcode/0876-middle-of-the-linked-list) | Easy | Java | 2026-10-15 |
 | 4034 | [Minimum Bishop Moves to Reach Target](leetcode/4034-minimum-bishop-moves-to-reach-target) | Medium | Java | 2026-08-30 |
