@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203460870,
+  "updatedAt": 1792203467627,
   "problems": [
     {
       "platform": "leetcode",
@@ -81,6 +81,26 @@
       "lang": "java",
       "solvedAt": 1789900874000,
       "submissionId": "2147588644"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4065",
+      "titleSlug": "rearrange-array-by-removing-distinct-values",
+      "title": "Rearrange Array by Removing Distinct Values",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Counting",
+        "Ordered Set"
+      ],
+      "dir": "leetcode/4065-rearrange-array-by-removing-distinct-values",
+      "lang": "java",
+      "solvedAt": 1790479201000,
+      "submissionId": "2154527353"
     },
     {
       "platform": "leetcode",
