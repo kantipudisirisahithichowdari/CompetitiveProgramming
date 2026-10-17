@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203434652,
+  "updatedAt": 1792203441435,
   "problems": [
     {
       "platform": "leetcode",
@@ -33,6 +33,18 @@
       "lang": "java",
       "solvedAt": 1792063620000,
       "submissionId": "2172962438"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4074",
+      "titleSlug": "maximum-product-pair-with-target-sum",
+      "title": "Maximum Product Pair With Target Sum",
+      "difficulty": "Easy",
+      "tags": [],
+      "dir": "leetcode/4074-maximum-product-pair-with-target-sum",
+      "lang": "java",
+      "solvedAt": 1791642932000,
+      "submissionId": "2168232705"
     }
   ]
 }
