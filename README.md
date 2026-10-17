@@ -2,7 +2,7 @@
 
 Accepted solutions, committed automatically by [Coding Profile Tracker](https://github.com/Saksham-Sharma23/Coding-Profile-Tracker).
 
-**7 solved** — 5 Easy · 2 Medium
+**8 solved** — 5 Easy · 3 Medium
 
 | # | Problem | Difficulty | Language | Solved |
 | ---: | --- | --- | --- | --- |
@@ -13,3 +13,4 @@ Accepted solutions, committed automatically by [Coding Profile Tracker](https://
 | 4056 | [Number of Intersecting Interval Pairs I](leetcode/4056-number-of-intersecting-interval-pairs-i) | Easy | Java | 2026-09-20 |
 | 4065 | [Rearrange Array by Removing Distinct Values](leetcode/4065-rearrange-array-by-removing-distinct-values) | Easy | Java | 2026-09-27 |
 | 4074 | [Maximum Product Pair With Target Sum](leetcode/4074-maximum-product-pair-with-target-sum) | Easy | Java | 2026-10-10 |
+| 4075 | [Longest Resilient Subarray I](leetcode/4075-longest-resilient-subarray-i) | Medium | Java | 2026-10-10 |

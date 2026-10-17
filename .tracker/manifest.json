@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203474136,
+  "updatedAt": 1792203480308,
   "problems": [
     {
       "platform": "leetcode",
@@ -113,6 +113,18 @@
       "lang": "java",
       "solvedAt": 1791642932000,
       "submissionId": "2168232705"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4075",
+      "titleSlug": "longest-resilient-subarray-i",
+      "title": "Longest Resilient Subarray I",
+      "difficulty": "Medium",
+      "tags": [],
+      "dir": "leetcode/4075-longest-resilient-subarray-i",
+      "lang": "java",
+      "solvedAt": 1791643576000,
+      "submissionId": "2168259126"
     }
   ]
 }
