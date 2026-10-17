@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203480308,
+  "updatedAt": 1792203486767,
   "problems": [
     {
       "platform": "leetcode",
@@ -125,6 +125,18 @@
       "lang": "java",
       "solvedAt": 1791643576000,
       "submissionId": "2168259126"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4078",
+      "titleSlug": "three-fibonacci-sum",
+      "title": "Three Fibonacci Sum",
+      "difficulty": "Easy",
+      "tags": [],
+      "dir": "leetcode/4078-three-fibonacci-sum",
+      "lang": "java",
+      "solvedAt": 1791686310000,
+      "submissionId": "2168745997"
     }
   ]
 }
