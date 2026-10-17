@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203441435,
+  "updatedAt": 1792203448059,
   "problems": [
     {
       "platform": "leetcode",
@@ -33,6 +33,22 @@
       "lang": "java",
       "solvedAt": 1792063620000,
       "submissionId": "2172962438"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4038",
+      "titleSlug": "count-integers-appearing-in-a-single-block",
+      "title": "Count Integers Appearing in a Single Block",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ],
+      "dir": "leetcode/4038-count-integers-appearing-in-a-single-block",
+      "lang": "java",
+      "solvedAt": 1788058004000,
+      "submissionId": "2124474257"
     },
     {
       "platform": "leetcode",
