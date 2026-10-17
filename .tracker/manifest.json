@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203448059,
+  "updatedAt": 1792203454460,
   "problems": [
     {
       "platform": "leetcode",
@@ -33,6 +33,21 @@
       "lang": "java",
       "solvedAt": 1792063620000,
       "submissionId": "2172962438"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4034",
+      "titleSlug": "minimum-bishop-moves-to-reach-target",
+      "title": "Minimum Bishop Moves to Reach Target",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math"
+      ],
+      "dir": "leetcode/4034-minimum-bishop-moves-to-reach-target",
+      "lang": "java",
+      "solvedAt": 1788058374000,
+      "submissionId": "2124486858"
     },
     {
       "platform": "leetcode",
