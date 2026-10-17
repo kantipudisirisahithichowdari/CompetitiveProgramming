@@ -5,9 +5,9 @@
 **Difficulty:** Medium  
 **Language:** Java  
 **Topics:** Linked List, Math, Recursion  
-**Solved:** 2026-10-15
+**Solved:** 2026-10-07
 
-> Runtime 3 ms (beats 3.08%) · Memory 46.2 MB (beats 93.15%)
+> Runtime 1 ms (beats 100.00%) · Memory 46.4 MB (beats 75.15%)
 
 ## Problem
 
