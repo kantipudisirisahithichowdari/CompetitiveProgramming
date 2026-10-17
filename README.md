@@ -22,3 +22,90 @@ Accepted solutions, committed automatically by [Coding Profile Tracker](https://
 | 4074 | [Maximum Product Pair With Target Sum](leetcode/4074-maximum-product-pair-with-target-sum) | Easy | Java | 2026-10-10 |
 | 4075 | [Longest Resilient Subarray I](leetcode/4075-longest-resilient-subarray-i) | Medium | Java | 2026-10-10 |
 | 4078 | [Three Fibonacci Sum](leetcode/4078-three-fibonacci-sum) | Easy | Java | 2026-10-11 |
+
+---
+
+<!-- cf-sync -->
+# Competitive Programming Solutions
+
+Synced automatically by SolveBase.
+
+**Total solved: 26**
+
+## Codeforces
+
+Solutions by [kl2400032881](https://codeforces.com/profile/kl2400032881), organized by difficulty rating.
+
+**Solved: 0**
+
+| Difficulty | Solved |
+| --- | --- |
+| — | 0 |
+
+
+## LeetCode
+
+Solutions organized by primary topic folder.
+
+**Solved: 22**
+
+| Topic | Solved |
+| --- | --- |
+| [0001-two-sum](./leetcode/0001-two-sum) | 1 |
+| [0002-add-two-numbers](./leetcode/0002-add-two-numbers) | 1 |
+| [0007-reverse-integer](./leetcode/0007-reverse-integer) | 1 |
+| [0009-palindrome-number](./leetcode/0009-palindrome-number) | 1 |
+| [0020-valid-parentheses](./leetcode/0020-valid-parentheses) | 1 |
+| [0021-merge-two-sorted-lists](./leetcode/0021-merge-two-sorted-lists) | 1 |
+| [0083-remove-duplicates-from-sorted-list](./leetcode/0083-remove-duplicates-from-sorted-list) | 1 |
+| [0242-valid-anagram](./leetcode/0242-valid-anagram) | 1 |
+| [0876-middle-of-the-linked-list](./leetcode/0876-middle-of-the-linked-list) | 1 |
+| [4034-minimum-bishop-moves-to-reach-target](./leetcode/4034-minimum-bishop-moves-to-reach-target) | 1 |
+| [4038-count-integers-appearing-in-a-single-block](./leetcode/4038-count-integers-appearing-in-a-single-block) | 1 |
+| [4056-number-of-intersecting-interval-pairs-i](./leetcode/4056-number-of-intersecting-interval-pairs-i) | 1 |
+| [4065-rearrange-array-by-removing-distinct-values](./leetcode/4065-rearrange-array-by-removing-distinct-values) | 1 |
+| [4074-maximum-product-pair-with-target-sum](./leetcode/4074-maximum-product-pair-with-target-sum) | 1 |
+| [4075-longest-resilient-subarray-i](./leetcode/4075-longest-resilient-subarray-i) | 1 |
+| [4078-three-fibonacci-sum](./leetcode/4078-three-fibonacci-sum) | 1 |
+| [hash-table](./leetcode/hash-table) | 1 |
+| [linked-list](./leetcode/linked-list) | 2 |
+| [math](./leetcode/math) | 1 |
+| [stack](./leetcode/stack) | 1 |
+| [two-pointers](./leetcode/two-pointers) | 1 |
+
+
+## CSES
+
+Solutions from the CSES Problem Set, organized by section.
+
+**Solved: 0**
+
+| Section | Solved |
+| --- | --- |
+| — | 0 |
+
+
+## CodeChef
+
+Solutions organized by difficulty rating.
+
+**Solved: 4**
+
+| Difficulty | Solved |
+| --- | --- |
+| [Unrated](./codechef/Unrated) | 4 |
+
+
+## GeeksforGeeks
+
+Solutions organized by difficulty level.
+
+**Solved: 0**
+
+| Difficulty | Solved |
+| --- | --- |
+| — | 0 |
+
+
+_Last updated: 2026-10-17_
+<!-- /cf-sync -->
