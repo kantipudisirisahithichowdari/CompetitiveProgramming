@@ -2,7 +2,7 @@
 
 Accepted solutions, committed automatically by [Coding Profile Tracker](https://github.com/Saksham-Sharma23/Coding-Profile-Tracker).
 
-**15 solved** — 11 Easy · 4 Medium
+**16 solved** — 12 Easy · 4 Medium
 
 | # | Problem | Difficulty | Language | Solved |
 | ---: | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ Accepted solutions, committed automatically by [Coding Profile Tracker](https://
 | 20 | [Valid Parentheses](leetcode/0020-valid-parentheses) | Easy | Java | 2026-10-14 |
 | 21 | [Merge Two Sorted Lists](leetcode/0021-merge-two-sorted-lists) | Easy | Java | 2026-10-15 |
 | 83 | [Remove Duplicates from Sorted List](leetcode/0083-remove-duplicates-from-sorted-list) | Easy | Java | 2026-10-15 |
+| 242 | [Valid Anagram](leetcode/0242-valid-anagram) | Easy | Java | 2026-10-17 |
 | 876 | [Middle of the Linked List](leetcode/0876-middle-of-the-linked-list) | Easy | Java | 2026-10-15 |
 | 4034 | [Minimum Bishop Moves to Reach Target](leetcode/4034-minimum-bishop-moves-to-reach-target) | Medium | Java | 2026-08-30 |
 | 4038 | [Count Integers Appearing in a Single Block](leetcode/4038-count-integers-appearing-in-a-single-block) | Easy | Java | 2026-08-30 |

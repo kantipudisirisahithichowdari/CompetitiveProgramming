@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203527394,
+  "updatedAt": 1792204796049,
   "problems": [
     {
       "platform": "leetcode",
@@ -106,6 +106,22 @@
       "lang": "java",
       "solvedAt": 1792048280000,
       "submissionId": "2172804383"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "242",
+      "titleSlug": "valid-anagram",
+      "title": "Valid Anagram",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "dir": "leetcode/0242-valid-anagram",
+      "lang": "java",
+      "solvedAt": 1792204790000,
+      "submissionId": "2174238420"
     },
     {
       "platform": "leetcode",
