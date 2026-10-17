@@ -1,8 +1,24 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203427874,
+  "updatedAt": 1792203434652,
   "problems": [
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "2",
+      "titleSlug": "add-two-numbers",
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "dir": "leetcode/0002-add-two-numbers",
+      "lang": "java",
+      "solvedAt": 1792035358000,
+      "submissionId": "2172650147"
+    },
     {
       "platform": "leetcode",
       "questionFrontendId": "876",
