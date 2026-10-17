@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203454460,
+  "updatedAt": 1792203460870,
   "problems": [
     {
       "platform": "leetcode",
@@ -64,6 +64,23 @@
       "lang": "java",
       "solvedAt": 1788058004000,
       "submissionId": "2124474257"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "4056",
+      "titleSlug": "number-of-intersecting-interval-pairs-i",
+      "title": "Number of Intersecting Interval Pairs I",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sorting",
+        "Enumeration"
+      ],
+      "dir": "leetcode/4056-number-of-intersecting-interval-pairs-i",
+      "lang": "java",
+      "solvedAt": 1789900874000,
+      "submissionId": "2147588644"
     },
     {
       "platform": "leetcode",
