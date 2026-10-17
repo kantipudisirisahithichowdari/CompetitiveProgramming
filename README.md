@@ -2,10 +2,11 @@
 
 Accepted solutions, committed automatically by [Coding Profile Tracker](https://github.com/Saksham-Sharma23/Coding-Profile-Tracker).
 
-**12 solved** — 8 Easy · 4 Medium
+**13 solved** — 9 Easy · 4 Medium
 
 | # | Problem | Difficulty | Language | Solved |
 | ---: | --- | --- | --- | --- |
+| 1 | [Two Sum](leetcode/0001-two-sum) | Easy | Java | 2026-10-15 |
 | 2 | [Add Two Numbers](leetcode/0002-add-two-numbers) | Medium | Java | 2026-10-07 |
 | 7 | [Reverse Integer](leetcode/0007-reverse-integer) | Medium | Java | 2026-10-15 |
 | 9 | [Palindrome Number](leetcode/0009-palindrome-number) | Easy | Java | 2026-10-14 |

@@ -1,8 +1,23 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792203507808,
+  "updatedAt": 1792203514586,
   "problems": [
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "1",
+      "titleSlug": "two-sum",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "dir": "leetcode/0001-two-sum",
+      "lang": "java",
+      "solvedAt": 1792035321000,
+      "submissionId": "2172649844"
+    },
     {
       "platform": "leetcode",
       "questionFrontendId": "2",
