@@ -30,7 +30,7 @@ Accepted solutions, committed automatically by [Coding Profile Tracker](https://
 
 Synced automatically by SolveBase.
 
-**Total solved: 32**
+**Total solved: 33**
 
 ## Codeforces
 
@@ -89,12 +89,12 @@ Solutions from the CSES Problem Set, organized by section.
 
 Solutions organized by difficulty rating.
 
-**Solved: 10**
+**Solved: 11**
 
 | Difficulty | Solved |
 | --- | --- |
 | [200](./codechef/200) | 2 |
-| [400](./codechef/400) | 1 |
+| [400](./codechef/400) | 2 |
 | [600](./codechef/600) | 1 |
 | [Unrated](./codechef/Unrated) | 6 |
 
