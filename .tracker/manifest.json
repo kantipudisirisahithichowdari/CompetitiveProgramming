@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792204796049,
+  "updatedAt": 1792425389570,
   "problems": [
     {
       "platform": "leetcode",
@@ -137,6 +137,18 @@
       "lang": "java",
       "solvedAt": 1792063620000,
       "submissionId": "2172962438"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "2877",
+      "titleSlug": "create-a-dataframe-from-list",
+      "title": "Create a DataFrame from List",
+      "difficulty": "Easy",
+      "tags": [],
+      "dir": "leetcode/2877-create-a-dataframe-from-list",
+      "lang": "pythondata",
+      "solvedAt": 1792425383000,
+      "submissionId": "2176369206"
     },
     {
       "platform": "leetcode",
