@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792425389570,
+  "updatedAt": 1792511437721,
   "problems": [
     {
       "platform": "leetcode",
@@ -149,6 +149,18 @@
       "lang": "pythondata",
       "solvedAt": 1792425383000,
       "submissionId": "2176369206"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "2879",
+      "titleSlug": "display-the-first-three-rows",
+      "title": "Display the First Three Rows",
+      "difficulty": "Easy",
+      "tags": [],
+      "dir": "leetcode/2879-display-the-first-three-rows",
+      "lang": "pythondata",
+      "solvedAt": 1792511419000,
+      "submissionId": "2177208893"
     },
     {
       "platform": "leetcode",
