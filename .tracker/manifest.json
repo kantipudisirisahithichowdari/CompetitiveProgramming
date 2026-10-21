@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792593529906,
+  "updatedAt": 1792593763542,
   "problems": [
     {
       "platform": "leetcode",
@@ -173,6 +173,18 @@
       "lang": "pythondata",
       "solvedAt": 1792511419000,
       "submissionId": "2177208893"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "2880",
+      "titleSlug": "select-data",
+      "title": "Select Data",
+      "difficulty": "Easy",
+      "tags": [],
+      "dir": "leetcode/2880-select-data",
+      "lang": "pythondata",
+      "solvedAt": 1792593757000,
+      "submissionId": "2178038622"
     },
     {
       "platform": "leetcode",
