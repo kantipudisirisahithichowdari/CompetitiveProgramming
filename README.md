@@ -2,7 +2,7 @@
 
 Accepted solutions, committed automatically by [Coding Profile Tracker](https://github.com/Saksham-Sharma23/Coding-Profile-Tracker).
 
-**20 solved** — 16 Easy · 4 Medium
+**21 solved** — 17 Easy · 4 Medium
 
 | # | Problem | Difficulty | Language | Solved |
 | ---: | --- | --- | --- | --- |
@@ -19,6 +19,7 @@ Accepted solutions, committed automatically by [Coding Profile Tracker](https://
 | 2878 | [Get the Size of a DataFrame](leetcode/2878-get-the-size-of-a-dataframe) | Easy | Pandas | 2026-10-21 |
 | 2879 | [Display the First Three Rows](leetcode/2879-display-the-first-three-rows) | Easy | Pandas | 2026-10-20 |
 | 2880 | [Select Data](leetcode/2880-select-data) | Easy | Pandas | 2026-10-21 |
+| 2881 | [Create a New Column](leetcode/2881-create-a-new-column) | Easy | Pandas | 2026-10-21 |
 | 4034 | [Minimum Bishop Moves to Reach Target](leetcode/4034-minimum-bishop-moves-to-reach-target) | Medium | Java | 2026-08-30 |
 | 4038 | [Count Integers Appearing in a Single Block](leetcode/4038-count-integers-appearing-in-a-single-block) | Easy | Java | 2026-08-30 |
 | 4056 | [Number of Intersecting Interval Pairs I](leetcode/4056-number-of-intersecting-interval-pairs-i) | Easy | Java | 2026-09-20 |

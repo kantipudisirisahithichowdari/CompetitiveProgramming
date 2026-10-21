@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792593763542,
+  "updatedAt": 1792593825262,
   "problems": [
     {
       "platform": "leetcode",
@@ -185,6 +185,18 @@
       "lang": "pythondata",
       "solvedAt": 1792593757000,
       "submissionId": "2178038622"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "2881",
+      "titleSlug": "create-a-new-column",
+      "title": "Create a New Column",
+      "difficulty": "Easy",
+      "tags": [],
+      "dir": "leetcode/2881-create-a-new-column",
+      "lang": "pythondata",
+      "solvedAt": 1792593817000,
+      "submissionId": "2178039531"
     },
     {
       "platform": "leetcode",
