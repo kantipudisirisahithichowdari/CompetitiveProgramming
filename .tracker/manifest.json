@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generator": "Coding Profile Tracker",
-  "updatedAt": 1792593825262,
+  "updatedAt": 1793255769591,
   "problems": [
     {
       "platform": "leetcode",
@@ -122,6 +122,21 @@
       "lang": "java",
       "solvedAt": 1792204790000,
       "submissionId": "2174238420"
+    },
+    {
+      "platform": "leetcode",
+      "questionFrontendId": "344",
+      "titleSlug": "reverse-string",
+      "title": "Reverse String",
+      "difficulty": "Easy",
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "dir": "leetcode/0344-reverse-string",
+      "lang": "java",
+      "solvedAt": 1793255719000,
+      "submissionId": "2184496209"
     },
     {
       "platform": "leetcode",
